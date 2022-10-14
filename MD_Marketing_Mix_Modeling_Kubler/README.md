@@ -23,3 +23,7 @@ In part 1, a simple additive model (linear regression) is implemented so one can
 - plt.stackplot helps for area charts
 
 - 🏅A special mention to Part 1, Cell 29, which is an exquisite manipulation 🏅
+
+- OptunaSearchCV() allows a fine tuning in between GridSearchCV() and RandomSearchCV()
+
+- convolve2d is used to modelize the Carry Over Effect of an advertising
